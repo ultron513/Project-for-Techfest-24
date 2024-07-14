@@ -1,0 +1,14 @@
+Room Allocation Algorithm
+Reading and Parsing CSVs:
+
+Use pandas to read CSV files into DataFrames.
+Grouping and Sorting:
+
+Group by Group ID to handle members together.
+Sort hostels based on capacity and gender.
+Allocation Logic:
+
+Iterate over groups and allocate rooms based on availability and constraints.
+Output Generation:
+
+Create a results DataFrame with allocation details.
